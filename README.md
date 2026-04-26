@@ -19,7 +19,8 @@ It allows users to donate to different cases such as:
 - Laravel
 - PHP
 - MySQL
-- Bootstrap
+- Tailwind css
+- Alpine.js
 
 ## 🚀 How to Run
 1. Clone the repository:
