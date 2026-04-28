@@ -106,7 +106,7 @@
             <p class="text-[11px] text-slate-500 text-center">
                 ليس لديك حساب؟
                 <a href="{{ route('register') }}" class="text-emerald-700 font-medium hover:text-emerald-800">
-                    إنشاء حساب جديد
+                    إنشاء حساب جديد w w w
                 </a>
             </p>
         </div>
